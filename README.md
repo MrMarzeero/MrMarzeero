@@ -6,6 +6,4 @@
 - ⚡ Fun fact: I like math
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marshziin&show_icons=true&theme=transparent)
-
 
