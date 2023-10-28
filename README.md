@@ -1,8 +1,6 @@
-## Opa! Meu nome é Otávio
-
-- 🌱 I’m currently learning C
-- 📫 How to reach me: otaviorp2014@gmail.com
-- ⚡ Fun fact: I like math
+<header>
+<h1 align="center">💻 What's Up?! I'm Marzeero </h1>
 
 
+  
 
