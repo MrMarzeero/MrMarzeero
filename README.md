@@ -10,7 +10,7 @@
 
 <div>
  <p>
-  About me ? My name is Otávio, i am a Junior Backend Web Developer from Brazil 🇧🇷, i have awesome analytics and code capacities, experience developing efficient applications integrated with a good documentation and code infrastructure. 
+  About me ? My name is Otávio, i am a Backend Web Developer from Brazil 🇧🇷, i have awesome analytics and code capacities, experience developing efficient applications integrated with a good documentation and code infrastructure. 
 </p>
 
  <h2 align="center">Principal Languages🌐</h2> 
