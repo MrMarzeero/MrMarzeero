@@ -10,7 +10,7 @@
 
 <div>
  <p>
-  About me ? My name is Otávio, i am a Backend Web Developer from Brazil 🇧🇷, i have awesome analytics and code capacities, experience developing efficient applications integrated with a good documentation and code infrastructure. 
+My name is Otávio. I am a Backend Web Developer from Brazil 🇧🇷 with strong analytical and coding skills. I have experience developing efficient applications, well-integrated with proper documentation and clean code infrastructure.
 </p>
 
  <h2 align="center">Principal Languages🌐</h2> 
@@ -36,8 +36,5 @@
   <br></br>
 
 <div  display="flex" , align="center"> 
-
-<img align="center" alt="Gif Code" src="https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif">
-
 </div>
 
