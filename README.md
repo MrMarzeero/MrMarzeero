@@ -1,7 +1,7 @@
 # Otávio Pinheiro
 
 ## What's up? 👋 <img src="https://komarev.com/ghpvc/?username=MrMarzeero" alt="MrMarzeero" /> 
-I like coding things that I have fun with.  
+I like coding things that I have fun with
 
 
 
